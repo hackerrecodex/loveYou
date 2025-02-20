@@ -50,7 +50,7 @@ function closeMessage() {
 }
 
 // Auto-show message every 10 seconds
-setInterval(showMessage, 10000);
+setInterval(showMessage, 30000);
 
 // Sparkle Effect on Click
 document.addEventListener('click', function(e) {
